@@ -10,7 +10,6 @@ import jakarta.persistence.Table;
 public class Produto {
 
     @Id
-    
     private String id;
 
     @Column
